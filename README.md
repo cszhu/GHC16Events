@@ -20,7 +20,7 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 ### Thursday, October 20
 | Time              | Event         | Location | Company  | Cost | Notes |
 | ----------------- |-------------  | ---------| ---------| -----| -----|
-| 9am - 10:30am | [Square GHC Celebration- Zumba on the Green](https://www.eventbrite.com/e/square-ghc-celebration-zumba-on-the-green-tickets-27861723164#tickets) | Discovery Green 1500 McKinney Street Houston, TX 77010 | Sqare | Free | Currently sold out, must waitlist. Free breakfast and Zumba
+| 9am - 10:30am | [Square GHC Celebration- Zumba on the Green](https://www.eventbrite.com/e/square-ghc-celebration-zumba-on-the-green-tickets-27861723164#tickets) | Discovery Green 1500 McKinney Street Houston, TX 77010 | Square | Free | Currently sold out, must waitlist. Free breakfast and Zumba
 | 3:30pm - 7:30 pm | [Data Careers Decoded GHC 2016](https://dataghc.splashthat.com/) | Four Seasons Hotel Houston 1300 Lamar Street Houston TX 77010 | Data @ GHC | Free | RSVP required. Speakers from Uber, Airbnb, Netflix, etc.
 | 6pm - ??pm | [Twitter In Houston](https://twitterinhouston.splashthat.com/) | The Grove 1611 Lamar Street Houston, TX 77010 | Twitter | Free | RSVP required
 | 7pm - 9pm | [Yelp Grace Hopper After Hours Mixer](https://www.eventbrite.com/e/yelp-grace-hopper-after-hours-2016-mixer-tickets-27742725238) | Hearsay on the Green 1515 Dallas Street Houston, TX 77010 | Yelp | Free | GHC Pass required, 21+. RSVP'd guests get entered in raffle.
