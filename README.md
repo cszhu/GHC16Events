@@ -20,6 +20,7 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 ### Thursday, October 20
 | Time              | Event         | Location | Company  | Cost | Notes |
 | ----------------- |-------------  | ---------| ---------| -----| -----|
+| 7:30am - 8:30am | [ABI Houston Mindfulness and Wellness Event](https://www.eventbrite.com/e/abihouston-presents-mindfulness-wellness-event-tickets-28466404783?utm_campaign=201308&ref=esfb&utm_source=Facebookenivtefor001) | Discovery Green 1500 McKinney Street, Houston, TX 77010 | ABI Houston | Free | RSVP required, limited to first 100
 | 9am - 10:30am | [Square GHC Celebration- Zumba on the Green](https://www.eventbrite.com/e/square-ghc-celebration-zumba-on-the-green-tickets-27861723164#tickets) | Discovery Green 1500 McKinney Street Houston, TX 77010 | Square | Free | Currently sold out, must waitlist. Free breakfast and Zumba
 | 3:30pm - 7:30 pm | [Data Careers Decoded GHC 2016](https://dataghc.splashthat.com/) | Four Seasons Hotel Houston 1300 Lamar Street Houston TX 77010 | Data @ GHC | Free | RSVP required. Speakers from Uber, Airbnb, Netflix, etc.
 | 6pm - ??pm | [Twitter In Houston](https://twitterinhouston.splashthat.com/) | The Grove 1611 Lamar Street Houston, TX 77010 | Twitter | Free | RSVP required
@@ -31,4 +32,3 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 | Time              | Event         | Location | Company  | Cost | Notes |
 | ----------------- |-------------  | ---------| ---------| -----| -----|
 | 7pm - 9pm | [Quantcast Grace Hopper Happy Hour](https://www.eventbrite.com/e/quantcast-grace-hopper-happy-hour-tickets-27758824391) | Reserve 101 1201 Caroline Street Houston, TX 77002 | Quantcast | Free | RSVP required, 21+?
-
