@@ -31,4 +31,4 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 ### Friday, October 21
 | Time              | Event         | Location | Company  | Cost | Notes |
 | ----------------- |-------------  | ---------| ---------| -----| -----|
-| 7pm - 9pm | [Quantcast Grace Hopper Happy Hour](https://www.eventbrite.com/e/quantcast-grace-hopper-happy-hour-tickets-27758824391) | Reserve 101 1201 Caroline Street Houston, TX 77002 | Quantcast | Free | RSVP required, 21+?
+| 7pm - 9pm | [Quantcast Grace Hopper Happy Hour](https://www.eventbrite.com/e/quantcast-grace-hopper-happy-hour-tickets-27758824391) | Reserve 101 1201 Caroline Street Houston, TX 77002 | Quantcast | Free | Currently sold out
