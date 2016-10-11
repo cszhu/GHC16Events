@@ -34,6 +34,5 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 ### Friday, October 21
 | Time              | Event         | Location | Company  | Cost | Notes |
 | ----------------- |-------------  | ---------| ---------| -----| -----|
-| 9am - 11am | [Crepes & Coffee with Stripe](https://stripe.com/events/GHC-crepes-and-coffee-2016) | AHH Coffee, 2018 Rusk St,
-Houston, TX | Stripe | Free | RSVP required
+| 9am - 11am | [Crepes & Coffee with Stripe](https://stripe.com/events/GHC-crepes-and-coffee-2016) | AHH Coffee, 2018 Rusk St,Houston, TX | Stripe | Free | RSVP required
 | 7pm - 9pm | [Quantcast Grace Hopper Happy Hour](https://www.eventbrite.com/e/quantcast-grace-hopper-happy-hour-tickets-27758824391) | Reserve 101 1201 Caroline Street Houston, TX 77002 | Quantcast | Free | Currently sold out
