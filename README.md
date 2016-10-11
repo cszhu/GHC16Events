@@ -13,6 +13,7 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 ### Wednesday, October 19
 | Time              | Event         | Location | Company  | Cost | Notes |
 | ----------------- |-------------  | ---------| ---------| -----| -----|
+| 7am - 8am | [Fitbit Wellness Event @ GHC](https://www.eventbrite.com/e/fitbit-wellness-event-ghc-tickets-28490501858) | Discovery Green | Fitbit | Free | Password and RSVP required
 | 6pm - 9pm | [Bits, Bytes, and Bowling](https://www.eventbrite.com/e/bits-bytes-bowling-tickets-27948304130) | Lucky Strike, 1201 San Jacinto St, Houston, TX 77002 | Accel, Fast Forward Labs and she++ | Free | RSVP required
 | 6pm - ??pm | [Twitter In Houston](https://twitterinhouston.splashthat.com/) | The Grove 1611 Lamar Street Houston, TX 77010 | Twitter | Free | RSVP required
 | 7pm - 9pm | [Panel Session: Where Will You Be in 5 Years?](https://www.eventbrite.com/e/panel-session-where-will-you-be-in-5-years-tickets-27957517688) | House of Blues, 1204 Carolina Street Houston, TX 77002 | Nutanix | Free | RSVP required
