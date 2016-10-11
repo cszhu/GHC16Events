@@ -28,9 +28,12 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 | 5:30pm - 9:30 pm | [Data Careers Decoded GHC 2016](https://dataghc.splashthat.com/) | Four Seasons Hotel Houston 1300 Lamar Street Houston TX 77010 | Data @ GHC | Free | RSVP required. Speakers from Uber, Airbnb, Netflix, etc.
 | 7pm - 9pm | [Yelp Grace Hopper After Hours Mixer](https://www.eventbrite.com/e/yelp-grace-hopper-after-hours-2016-mixer-tickets-27742725238) | Hearsay on the Green 1515 Dallas Street Houston, TX 77010 | Yelp | Free | GHC Pass required, 21+. RSVP'd guests get entered in raffle.
 | 5:30 - 7:30pm | [iOS at GHC Special Dinner](https://iosghcdinner.splashthat.com/?gz=c94affb4b8503878434dc29baa0c9fe6&pp=1) | Irma's Southwest Grill 1314 Texas St Houston, TX | iOS at GHC | Free | RSVP required
+| 8pm - ??pm | [Snap @ Grace Hopper](https://snapgracehopper.splashthat.com/) | MKT BAR, 1001 Austin St, Houston, TX  | Snap | Free | RSVP required
 
 
 ### Friday, October 21
 | Time              | Event         | Location | Company  | Cost | Notes |
 | ----------------- |-------------  | ---------| ---------| -----| -----|
+| 9am - 11am | [Crepes & Coffee with Stripe](https://stripe.com/events/GHC-crepes-and-coffee-2016) | AHH Coffee, 2018 Rusk St,
+Houston, TX | Stripe | Free | RSVP required
 | 7pm - 9pm | [Quantcast Grace Hopper Happy Hour](https://www.eventbrite.com/e/quantcast-grace-hopper-happy-hour-tickets-27758824391) | Reserve 101 1201 Caroline Street Houston, TX 77002 | Quantcast | Free | Currently sold out
