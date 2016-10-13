@@ -20,6 +20,7 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 | 5pm - 8pm | [Square WomEng Happy Hour and Industry Panel](https://www.eventbrite.com/e/square-womeng-happy-hour-and-industry-panel-tickets-27862137403) | The Moonshiners Southern Table + Bar 1000 Prairie Street Houston, TX 77002 | Square | Free | RSVP required, 21+
 | 7pm - 9pm | [Verizon's Inspire Her Mind Social](https://www.eventbrite.com/e/verizons-inspire-her-mind-social-registration-28430700992) | Four Seasons Hotel Houston; Austin Room (3rd floor) | Verizon | Free | Invite required
 | 6pm - 8:30pm | [Workday EXCLUSIVE: Grace Hopper Networking Event ](https://www.eventbrite.com/e/workday-exclusive-grace-hopper-networking-event-mkt-bar-tickets-28260673435) | MKT BAR 1001 Austin St, Houston, TX 77010 | Workday | Free | Invite required
+| 6pm - ??pm | Tex-Mex It Up with Quora! | Irma's Southwest Grill 1314 Texas St #100, Houston, TX, 77002 | Quora | Free | Invite required
 
 
 ### Thursday, October 20
