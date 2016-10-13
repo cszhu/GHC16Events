@@ -6,6 +6,7 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 ### Tuesday, October 18
 | Time              | Event         | Location | Company  | Cost | Notes |
 | ----------------- |-------------  | ---------| ---------| -----| -----|
+| 5:30pm - 8:30pm | [Mastercard Welcome Reception - Grace Hopper Conference 2016](https://www.eventbrite.com/e/mastercard-welcome-reception-grace-hopper-conference-2016-tickets-26900740840?aff=estw) | The Grove 1611 Lamar Street Houston, TX 77010 | Mastercard | Free | RSVP required
 | 6pm - 8pm | [Blaze: Welcome GHC Reception](https://www.eventbrite.com/e/welcome-ghc-reception-tickets-27400053297?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=esfb&utm-source=fb&utm-term=listing) | Little Woodrow's Eado 2019 Walker Street Houston, TX 77003 | BLAZE: The Women's Network | Free | RSVP required
 | 7pm - 10pm | [Life at Pandora Gallery ft Yuna](https://lifeatpandoragallery.splashthat.com/?gz=5ca4c04d8dcf77c5e9ebe4ce6c173d30&pp=1) | The Houston Rental Studio 2327 Commerce Street Houston, TX 77002 | Pandora | Free | Currently at capacity, add yourself to the waitlist. **Password**: PandoraGHC. RSVP required. Performance by R&B artist Yuna! **21+**.
 
