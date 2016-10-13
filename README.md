@@ -18,6 +18,7 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 | 6pm - ??pm | [Twitter In Houston](https://twitterinhouston.splashthat.com/) | The Grove 1611 Lamar Street Houston, TX 77010 | Twitter | Free | RSVP required
 | 7pm - 9pm | [Panel Session: Where Will You Be in 5 Years?](https://www.eventbrite.com/e/panel-session-where-will-you-be-in-5-years-tickets-27957517688) | House of Blues, 1204 Carolina Street Houston, TX 77002 | Nutanix | Free | RSVP required
 | 5pm - 8pm | [Square WomEng Happy Hour and Industry Panel](https://www.eventbrite.com/e/square-womeng-happy-hour-and-industry-panel-tickets-27862137403) | The Moonshiners Southern Table + Bar 1000 Prairie Street Houston, TX 77002 | Square | Free | RSVP required, 21+
+| 7pm - 9pm | [Verizon's Inspire Her Mind Social](https://www.eventbrite.com/e/verizons-inspire-her-mind-social-registration-28430700992) | Four Seasons Hotel Houston; Austin Room (3rd floor) | Verizon | Free | Invite required
 | 6pm - 8:30pm | [Workday EXCLUSIVE: Grace Hopper Networking Event ](https://www.eventbrite.com/e/workday-exclusive-grace-hopper-networking-event-mkt-bar-tickets-28260673435) | MKT BAR 1001 Austin St, Houston, TX 77010 | Workday | Free | Invite required
 
 
