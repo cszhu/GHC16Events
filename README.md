@@ -34,6 +34,7 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 | 5:30pm - 9:30 pm | [Data Careers Decoded GHC 2016](https://dataghc.splashthat.com/) | Four Seasons Hotel Houston 1300 Lamar Street Houston TX 77010 | Data @ GHC | Free | RSVP required. Speakers from Uber, Airbnb, Netflix, etc.
 | 6:30pm - 9:30pm | [THE ANNEX: The Unofficial Grace Hopper After Party](https://www.eventbrite.com/e/the-annex-the-unofficial-grace-hopper-after-party-tickets-27642640883) | House of Blues Houston 1204 Caroline Street Houston, TX 77002  | Atlassian, Dev Bootcamp, Metis | Free | Password + RSVP required. Ping [organizer](https://www.facebook.com/photo.php?fbid=10104786753130183&set=gm.1144131529002731&type=3&theater) for password.
 | 8pm - ??pm | [Snap @ Grace Hopper](https://snapgracehopper.splashthat.com/) | MKT BAR, 1001 Austin St, Houston, TX  | Snap | Free | RSVP required
+| 6:30pm - 9:30pm | [GE @ GHC Mixer](https://www.eventbrite.com/e/gehc-mixer-2016-tickets-28458807058?aff=) | Four Seasons Hotel Houston, 1300 Lamar St, Houston, TX 77010 | GE | Free | RSVP required. Password: "itsElectric"
 
 ### Friday, October 21
 | Time              | Event         | Location | Company  | Cost | Notes |
