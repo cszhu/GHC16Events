@@ -39,7 +39,7 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 | 6:30pm - 9:30pm | [GE @ GHC Mixer](https://www.eventbrite.com/e/gehc-mixer-2016-tickets-28458807058?aff=) | Four Seasons Hotel Houston, 1300 Lamar St, Houston, TX 77010 | GE | Free | RSVP required. Password: "itsElectric"
 | 7pm - 9pm | [Yelp Grace Hopper After Hours Mixer](https://www.eventbrite.com/e/yelp-grace-hopper-after-hours-2016-mixer-tickets-27742725238) | Hearsay on the Green 1515 Dallas Street Houston, TX 77010 | Yelp | Free | GHC Pass required. RSVP'd guests get entered in raffle.
 | 7pm - 10pm | [Women Techmakers Afterhours](https://wtmafterhours.eventfarm.com/event/7fff5387-0000-457f-a443-3b1ca85e959a) | Discovery Green Park: Grace Event Lawn, McKinney St., Houston, TX   | Women Techmakers | Free | Passcode : WTMGHC
-| 8pm - ??pm | [Snap @ Grace Hopper](https://snapgracehopper.splashthat.com/) | MKT BAR, 1001 Austin St, Houston, TX  | Snap | Free | RSVP required
+| 8pm - ??pm | [Snap @ Grace Hopper](https://snapgracehopper.splashthat.com/) | MKT BAR, 1001 Austin St, Houston, TX  | Snap | Free | **Sold out**. You can waitlist. RSVP required
 
 ### Friday, October 21
 | Time              | Event         | Location | Company  | Cost | Notes |
