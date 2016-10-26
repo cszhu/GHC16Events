@@ -6,6 +6,7 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 ### Tuesday, October 18
 | Time              | Event         | Location | Company  | Cost | Notes |
 | ----------------- |-------------  | ---------| ---------| -----| -----|
+| 4:00pm - 5:30pm | [#BowlWithTwitterU](https://github.com/cszhu/GHC16Events/blob/master/%23BowlWithTwitterU.pdf) | Lucky Strike Houston | Twitter | Free | Invite required
 | 5:30pm - 8:30pm | [Mastercard Welcome Reception - Grace Hopper Conference 2016](https://www.eventbrite.com/e/mastercard-welcome-reception-grace-hopper-conference-2016-tickets-26900740840?aff=estw) | The Grove 1611 Lamar Street Houston, TX 77010 | Mastercard | Free | RSVP required
 | 6pm - 8pm | [Blaze: Welcome GHC Reception](https://www.eventbrite.com/e/welcome-ghc-reception-tickets-27400053297?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=esfb&utm-source=fb&utm-term=listing) | Little Woodrow's Eado 2019 Walker Street Houston, TX 77003 | BLAZE: The Women's Network | Free | RSVP required
 | 7pm - 10pm | [Life at Pandora Gallery ft Yuna](https://lifeatpandoragallery.splashthat.com/?gz=5ca4c04d8dcf77c5e9ebe4ce6c173d30&pp=1) | The Houston Rental Studio 2327 Commerce Street Houston, TX 77002 | Pandora | Free | Currently at capacity, add yourself to the waitlist. **Password**: PandoraGHC. RSVP required. Performance by R&B artist Yuna! **21+**.
@@ -35,6 +36,7 @@ A database that tracks of all the receptions and events going at Grace Hopper '1
 | 6pm - 9pm | [Dropbox@Grace Hopper Mixer](http://dropboxghcmixer2016.splashthat.com/dbxUR) | Axelrad Beer Garden 1517 Alabama Street Houston TX 77004 | DropBox | Free | RSVP required
 | 6pm - 9pm | Uber GHC Mixer| Magnolia Hotel Houston, 1100 Texas Avenue, Houston TX  | Uber | Free | Invitation only. If you try to RSVP without a reservation you will get rejected.
 | 6:30pm - 8:30pm | [Elevate with Akamai](https://docs.google.com/forms/d/e/1FAIpQLSft_aunSqRDlvzAHB2dNs4TvEk0Jmh92q-yiwm2R20e6NlwDg/viewform?c=0&w=1) | Quattro Restaurant at Four Seasons Hotel, Fairfield Room 1300 Lamar St., Houston | Akamai Technologies | Free | Invitation only. RSVP required
+| 6:30pm - 8:30pm | [LinkedIn Paint Night](https://linkedinmixer.splashthat.com/) | The Grove, 1611 Lamar St, Houston, TX 77010 | LinkedIn | Free | RSVP required
 | 6pm - 8:30pm | Comcast NBCUniversal VIP Reception | Lucky Strike 1201 San Jacinto St, Houston, TX 77002 | Comcast NBCUniversal | Free | Invitation only (visit booth #2710)
 | 6:30pm - 9:30pm | [THE ANNEX: The Unofficial Grace Hopper After Party](https://www.eventbrite.com/e/the-annex-the-unofficial-grace-hopper-after-party-tickets-27642640883) | House of Blues Houston 1204 Caroline Street Houston, TX 77002  | Atlassian, Dev Bootcamp, Metis | Free | Password + RSVP required. Ping [organizer](https://www.facebook.com/photo.php?fbid=10104786753130183&set=gm.1144131529002731&type=3&theater) for password.
 | 6:30pm - 9:30pm | [GE @ GHC Mixer](https://www.eventbrite.com/e/gehc-mixer-2016-tickets-28458807058?aff=) | Four Seasons Hotel Houston, 1300 Lamar St, Houston, TX 77010 | GE | Free | RSVP required. Password: "itsElectric"
